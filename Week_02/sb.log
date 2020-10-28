@@ -1,0 +1,20 @@
+Starting at 2020/10/28 23:52:45
+[Press C to stop the test]
+---------------Finished!----------------
+Finished at 2020/10/28 23:54:02 (took 00:01:16.4912189)
+Status 200:    331298
+
+RPS: 5404.8 (requests/second)
+Max: 246ms
+Min: 0ms
+Avg: 0.1ms
+
+  50%	below 0ms
+  60%	below 0ms
+  70%	below 0ms
+  80%	below 0ms
+  90%	below 0ms
+  95%	below 0ms
+  98%	below 1ms
+  99%	below 3ms
+99.9%	below 6ms
